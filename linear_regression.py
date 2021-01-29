@@ -1,6 +1,3 @@
-# To add a new cell, type ' '
-# To add a new markdown cell, type '  [markdown]'
-
 from sklearn.linear_model import LinearRegression
 from matplotlib import pyplot as plt
 from sklearn.model_selection import train_test_split
